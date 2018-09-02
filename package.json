@@ -1,0 +1,18 @@
+{
+  "name": "nginx-ui",
+  "version": "1.0.0",
+  "description": "GUI to setup and maintain nginx configuration.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Nginx",
+    "GUI"
+  ],
+  "author": "Rohan Antony",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
